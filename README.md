@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 👋 I’m @abelbarreira!
-- 👀 I’m working in [Valid](https://valid.com/) as a Firmware Engineer
+- 👀 I’m working in [Microchip Technology Inc.](https://www.microchip.com/) as a Principal Software Development Engineer
 - 🌱 I’m currently learning RTOS, Embedded Linux and Rust
 
 ### 🔨 Languages and Tools:
